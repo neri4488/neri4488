@@ -1,7 +1,7 @@
 ## A little about me,🙈
 Am [Hamba Abuneri]: https://github.com/neri4488, a husband, father and coder!
 
-## My journey sofar, nolook further😘 I like my stats✋
+## My journey sofar, look no further😘 I like my stats✋
 [![Neri’s github stats](https://github-readme-stats.vercel.app/api?username=neri4488&count_private=true&show_icons=true&hide=contribs)](https://github.com/neri4488)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neri4488&layout=compact&count_private=true)](https://github.com/neri4488)
 
